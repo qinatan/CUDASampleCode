@@ -1,0 +1,1 @@
+This example demonstrates a simple CUDA program that performs vector addition. Two arrays (A and B) are added together to produce a result array (C), where each element is the sum of the corresponding elements in A and B.
